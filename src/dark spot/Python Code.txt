@@ -1,0 +1,2 @@
+The link for the .pth saved model
+https://drive.google.com/file/d/1uNxRQkm_4E_1M06Ak-ZARyJ8GidS0O6r/view?usp=sharing
